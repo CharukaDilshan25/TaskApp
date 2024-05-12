@@ -19,9 +19,9 @@
             android:layout_marginTop="16dp"
             android:fontFamily="sans-serif"
             android:text="@string/add_new_task"
-            android:textStyle="bold"
-            android:textColor="@color/red"
-            android:textSize="24sp" />
+            android:textColor="#307EE1"
+            android:textSize="24sp"
+            android:textStyle="bold" />
 
         <EditText
             android:id="@+id/addNoteTitle"
