@@ -142,6 +142,7 @@
         android:textColorHighlight="#307EE1"
         android:textColorLink="#307EE1"
         android:textSize="20sp"
+        app:cornerRadius="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.495"
