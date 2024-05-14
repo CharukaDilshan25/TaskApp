@@ -20,6 +20,12 @@ class OnBoard1 : AppCompatActivity() {
             startActivity(intent)
             finish()
         }
+        var button = findViewById<Button>(R.id.button)
+        button.setOnClickListener {
+            var intent = Intent(this, Login::class.java)
+            startActivity(intent)
+            finish()
+        }
 
     }
 }

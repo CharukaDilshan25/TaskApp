@@ -119,8 +119,8 @@
             android:layout_width="25dp"
             android:layout_height="25dp"
             android:layout_weight="1"
-            android:src="@tools:sample/avatars"
-            tools:srcCompat="@drawable/apple_logo" />
+            android:src="@drawable/apple_logo"
+             />
 
     </LinearLayout>
 
